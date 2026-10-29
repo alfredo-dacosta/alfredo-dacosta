@@ -1,16 +1,20 @@
-## Hi there 👋
+# Alfredo Alexandre Da Costa
 
-<!--
-**alfredo-dacosta/alfredo-dacosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computing student (FdSc Computing, NCG Higher Education Centre, London) focused on secure web development.
 
-Here are some ideas to get you started:
+I build web applications and test how they can be attacked and defended. My goal is a junior role as a secure software developer or security analyst, working towards penetration testing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured project
+
+**[Web Security Lab](https://github.com/alfredo-dacosta/web-security-lab)**: a PHP/MySQL shop with a vulnerable mode and a secure mode. It demonstrates SQL injection, stored XSS and plain-text password storage, and shows how prepared statements, output escaping and password hashing prevent them.
+
+## Skills
+
+- **Languages:** Java, PHP, JavaScript, HTML, CSS, SQL
+- **Databases:** MySQL/MariaDB, PostgreSQL
+- **Security:** OWASP Top 10, SQL injection, XSS, secure password storage
+- **Tools:** Git, GitHub, XAMPP, phpMyAdmin, Visual Studio Code, NetBeans
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/alfredo-costa-bb3b1943/)
